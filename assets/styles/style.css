@@ -38,10 +38,12 @@ body {
     justify-content: center;
     align-items: center;
     box-shadow: 0 0 15px #cecece;
+    border-radius: 10px;
 }
 .inner-card img {
     width: 100%;
     max-width: 400px;
     height: auto;
     margin-bottom: 10px;
+    border-radius: 10px;
 }
